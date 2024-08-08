@@ -5,18 +5,19 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 - ⚡ Skills:
 <br>
-- 🌱 Frontend Developer
+-Programming Languages: C++, Python, HTML, CSS, Dart
 <br>
-- 🌱 C/C++
+-Libraries/Frameworks: Javascript, React, Flask, Google Firebase, Tensorow, Flutter
 <br>
-- 🌱 Microsoft Office Word
+- Tools / Platforms: Computer Vision, Prediction Model, Web Development, Android Development(Flutter)
 <br>
-- 🌱 Microsoft Office Excel
+- Databases: SQL, Google Firestore
+<br>
 
 
 
 - ⚡ Fun fact :- Food and Web Series are the reasons to live.
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- ⚡ Fun fact :- Music🎵 is the reasons to be stress free.
 
 <br>
 
