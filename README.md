@@ -5,13 +5,13 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 - ⚡ Skills:
 <br>
--Programming Languages: C++, Python, HTML, CSS, Dart
+*Programming Languages: C++, Python, HTML, CSS, Dart
 <br>
--Libraries/Frameworks: Javascript, React, Flask, Google Firebase, Tensorow, Flutter
+*Libraries/Frameworks: Javascript, React, Flask, Google Firebase, Tensorow, Flutter
 <br>
-- Tools / Platforms: Computer Vision, Prediction Model, Web Development, Android Development(Flutter)
+*Tools / Platforms: Computer Vision, Prediction Model, Web Development, Android Development(Flutter)
 <br>
-- Databases: SQL, Google Firestore
+*Databases: SQL, Google Firestore
 <br>
 
 
